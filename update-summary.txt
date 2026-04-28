@@ -1,0 +1,7 @@
+chapters: 0
+photos_in_js: 0
+photos_in_html: 0
+max_index: None
+uses_style_1: True
+uses_main_1: True
+hero_count_updated: True
