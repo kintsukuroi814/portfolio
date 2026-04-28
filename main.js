@@ -73,7 +73,7 @@
   });
 
   // ---- ALL 72 PHOTOS ----
-  const BASE = 'https://raw.githubusercontent.com/kintsukuroi814/portfolio/main/';
+  const BASE = 'https://cdn.jsdelivr.net/gh/kintsukuroi814/portfolio@main/';
   const photos = [
     // I — Identity
     { src: BASE + 'Kint%20Sugi.jpg', title: 'Kint Sugi' },

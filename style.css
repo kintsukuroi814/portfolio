@@ -113,7 +113,7 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-img, picture, video, canvas { display: block; max-width: 100%; height: auto; }
+img, picture, video, canvas { display: block; max-width: 100%; height: auto; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; }
 ul[role="list"] { list-style: none; }
 input, button, textarea, select { font: inherit; color: inherit; }
 h1, h2, h3, h4 { text-wrap: balance; line-height: 1.1; }
